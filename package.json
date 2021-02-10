@@ -1,0 +1,26 @@
+{
+  "name": "17-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickcorcoran10/17-hw.git"
+  },
+  "author": "pc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickcorcoran10/17-hw/issues"
+  },
+  "homepage": "https://github.com/patrickcorcoran10/17-hw#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1"
+  }
+}
